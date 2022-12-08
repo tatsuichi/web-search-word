@@ -26,3 +26,10 @@ C#全般であれば"C# ～"で問題ないが、テンプレートプロジェ�
 > ASP.NET Core DI
 
 > ASP.NET Core nlog
+
+# Windowsコマンドプロンプト
++ コマンドプロンプト
++ バッチ
++ bat
++ バッチファイル
++ batファイル
